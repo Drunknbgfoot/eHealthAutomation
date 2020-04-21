@@ -1,0 +1,8 @@
+# Navigate to <url> and Login as user <username> with <password>
+
+* Navigate to QA Next <url>
+* Enter <username> to Login to QA Next
+* Enter Password <password>
+* Click Login
+* Verify User has logged in
+
